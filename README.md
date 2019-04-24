@@ -1,4 +1,4 @@
-# utils
+# Utilities
 
 Links, softwares and console commands that might be useful.
 
